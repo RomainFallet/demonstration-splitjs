@@ -11,7 +11,7 @@
 Cloner le dépot :
 
 ```bash
-git clone 
+git clone https://github.com/RomainFallet/demonstration-splitjs
 ```
 
 Installer les dépendances du projet :
